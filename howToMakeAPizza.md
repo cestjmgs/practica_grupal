@@ -17,12 +17,9 @@ Empaquetado y entrega
 4. Agregar los ingredientes que hagan falta
 5. Cerrar la caja y dejarla asegurada para que no se abra
 6. Asegurar la caja en el medio de transporte que se usará para llevar la pizza al cliente
-<<<<<<< HEAD
 7. Entregarle al cliente la pizza en perfectas condiciones y realizar el cobro por el servicio
-=======
 7. Entregarle al cliente la pizza en perfectas condiciones y realizar el cobro por el servicio 
 
 Tabla para amasar
 Rodillo para amasar
 Cortador de pizza
->>>>>>> c953ff352f4afcae9e9cec27936ee7a95f6290bc
