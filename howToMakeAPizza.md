@@ -18,3 +18,6 @@ Empaquetado y entrega
 6. Asegurar la caja en el medio de transporte que se usará para llevar la pizza al cliente
 7. Entregarle al cliente la pizza en perfectas condiciones y realizar el cobro por el servicio 
 
+Tabla para amasar
+Rodillo para amasar
+Cortador de pizza
